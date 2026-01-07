@@ -1,4 +1,4 @@
-# 🛡️ CYS Wiki - Cybersecurity Documentation Platform
+# 🛡️ CYS Wiki - Cybersecurity Documentation Platform.
 
 Platform dokumentasi cybersecurity dengan sistem autentikasi Telyus dan monitoring aktivitas login real-time.
 
